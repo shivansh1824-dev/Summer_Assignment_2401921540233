@@ -22,6 +22,7 @@ Daily DSA practice and coding interview preparation.
 | [0027-remove-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

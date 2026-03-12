@@ -11,6 +11,7 @@ Daily DSA practice and coding interview preparation.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -23,6 +24,7 @@ Daily DSA practice and coding interview preparation.
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -42,9 +44,11 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

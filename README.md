@@ -6,6 +6,7 @@ Daily DSA practice and coding interview preparation.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -30,12 +31,14 @@ Daily DSA practice and coding interview preparation.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 ## Array
 |  |

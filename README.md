@@ -13,6 +13,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -96,8 +97,10 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

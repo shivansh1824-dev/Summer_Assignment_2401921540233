@@ -63,6 +63,7 @@ Daily DSA practice and coding interview preparation.
 | [0027-remove-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -138,4 +139,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->

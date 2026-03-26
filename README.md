@@ -20,10 +20,12 @@ Daily DSA practice and coding interview preparation.
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
@@ -67,6 +69,7 @@ Daily DSA practice and coding interview preparation.
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List

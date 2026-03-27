@@ -25,6 +25,7 @@ Daily DSA practice and coding interview preparation.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
@@ -58,6 +59,7 @@ Daily DSA practice and coding interview preparation.
 | [0002-add-two-numbers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -146,4 +148,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

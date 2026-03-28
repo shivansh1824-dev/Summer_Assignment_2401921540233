@@ -8,6 +8,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -15,6 +16,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -152,4 +154,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

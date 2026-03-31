@@ -11,6 +11,7 @@ Daily DSA practice and coding interview preparation.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -46,6 +47,7 @@ Daily DSA practice and coding interview preparation.
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |

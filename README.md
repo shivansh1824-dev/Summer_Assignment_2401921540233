@@ -20,6 +20,7 @@ Daily DSA practice and coding interview preparation.
 | [0020-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -120,6 +121,7 @@ Daily DSA practice and coding interview preparation.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 ## Queue

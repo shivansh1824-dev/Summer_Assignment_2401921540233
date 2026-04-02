@@ -25,6 +25,7 @@ Daily DSA practice and coding interview preparation.
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -106,6 +107,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ Daily DSA practice and coding interview preparation.
 | [0155-min-stack](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -168,4 +171,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->

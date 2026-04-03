@@ -79,6 +79,7 @@ Daily DSA practice and coding interview preparation.
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0704-binary-search) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -112,6 +113,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |

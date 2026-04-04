@@ -66,6 +66,7 @@ Daily DSA practice and coding interview preparation.
 | ------- |
 | [0002-add-two-numbers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -73,6 +74,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |

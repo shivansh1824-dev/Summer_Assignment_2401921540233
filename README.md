@@ -57,6 +57,7 @@ Daily DSA practice and coding interview preparation.
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -95,6 +96,7 @@ Daily DSA practice and coding interview preparation.
 | [0092-reverse-linked-list-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
@@ -127,6 +129,7 @@ Daily DSA practice and coding interview preparation.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
@@ -179,4 +182,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

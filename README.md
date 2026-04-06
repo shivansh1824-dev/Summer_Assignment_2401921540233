@@ -10,6 +10,7 @@ Daily DSA practice and coding interview preparation.
 | [0020-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |

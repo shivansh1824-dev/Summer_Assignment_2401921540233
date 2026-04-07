@@ -82,6 +82,7 @@ Daily DSA practice and coding interview preparation.
 | [0134-gas-station](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0704-binary-search) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -163,6 +164,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0414-third-maximum-number) |
 ## Greedy
 |  |
 | ------- |

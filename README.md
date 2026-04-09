@@ -73,6 +73,7 @@ Daily DSA practice and coding interview preparation.
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0263-ugly-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
 |  |

@@ -72,6 +72,7 @@ Daily DSA practice and coding interview preparation.
 | [0007-reverse-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0263-ugly-number) |
@@ -183,6 +184,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
 ## String Matching
 |  |
 | ------- |
@@ -195,4 +197,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0146-lru-cache) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

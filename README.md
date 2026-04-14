@@ -74,6 +74,7 @@ Daily DSA practice and coding interview preparation.
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0263-ugly-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
@@ -115,6 +116,7 @@ Daily DSA practice and coding interview preparation.
 | [0002-add-two-numbers](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -130,6 +132,7 @@ Daily DSA practice and coding interview preparation.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |

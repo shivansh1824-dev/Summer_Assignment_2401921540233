@@ -15,6 +15,7 @@ Daily DSA practice and coding interview preparation.
 | [0344-reverse-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Stack
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Daily DSA practice and coding interview preparation.
 | [1441-build-an-array-with-stack-operations](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3842-toggle-light-bulbs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/3842-toggle-light-bulbs) |
 ## Linked List

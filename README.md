@@ -83,6 +83,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -190,6 +191,7 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
 ## String Matching
 |  |
@@ -207,4 +209,8 @@ Daily DSA practice and coding interview preparation.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shivansh1824-dev/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
